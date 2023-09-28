@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#preview > h1 {
+  font-size: 2.5rem
+}
